@@ -248,14 +248,14 @@ Visualizations:
 
 
 
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 
 \### Root Cause Analysis
 
 
 
-![Executive Overview](screenshots/Root_Cause_Analysis.png)
+![Executive Overview](Screenshots/Root_Cause_Analysis.png)
 
 
 
